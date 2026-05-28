@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/poth-chola-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Poth Chola, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poth-chola-vol-2/) |
+| **Get License** | [Request Licensing for Poth Chola, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poth-chola-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2346)
 
 ---
 
