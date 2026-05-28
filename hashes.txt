@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Poth Chola, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Poth Chola, Vol. 2** (poth-chola-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:24:18.890080 | `v1` | `cfdc28c70797390a3033a7270b31d95fb4c34a2f202bf0a793ff46ef7c664f59` | `91c2c7a48d77853e046753616ec2e207fc63614dc6a735ae4a55caac3364656b` | `2026-05-29_poth-chola-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
