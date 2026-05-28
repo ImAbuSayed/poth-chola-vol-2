@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/poth-chola-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Poth Chola, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poth-chola-vol-2/) |
+| **Get License** | [Commercial Licensing for Poth Chola, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/poth-chola-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারের উষ্ণ মায়ায় পুড়ছে আমার রাত.. পুড়ছে রাত..
+> তোমার খোঁজে বাড়াই আমি আমার শূন্য হাত
+> উষ্ণ প্রেমের মাতাল হাওয়া কাঁপায় তোমার ঠোঁট
+> হারিয়ে যাওয়ার নেশায় আজ মন হয়েছে জোট
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
